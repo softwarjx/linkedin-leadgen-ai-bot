@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+aiogram
+openai
+python-dotenv
+sqlalchemy
+aiosqlite
+serpapi
+httpx
+greenlet
+pydantic
